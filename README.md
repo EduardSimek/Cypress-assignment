@@ -1,1 +1,1 @@
-# Cypress---assignment
+# Cypress assignment
